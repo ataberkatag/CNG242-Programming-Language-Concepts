@@ -1,6 +1,3 @@
-/*Ataberk Turk ATAG - 2015915 
-I read and accept the submission rules and the extra rules specified in each question. This is my own work that
-is done by myself only*/
 #pragma once
 #include <iostream>
 
