@@ -1,7 +1,4 @@
-﻿/*Ataberk Turk ATAG - 2015915
-I read and accept the submission rules and the extra rules specified in each question. This is my own work that
-is done by myself only*/
-#include"Adress.h"
+#include"Assignment-1.h"
 #include<iostream>
 
 using std::cin;
