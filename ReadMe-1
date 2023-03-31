@@ -1,1 +1,13 @@
 Assignment-1
+
+Operator Overloading, IPv6
+In this work we are going to establish some classes and operators which can be used for operations on IPv6 addressing.
+Learning Outcomes: On successful completion of this assignment, a student will:
+• Write a C++ program that utilizes operator overloading.
+• Appreciate the ability to program using notation closer to the target domain.
+• Establish a class that can be used for arithmetic operations on binary numbers as well as
+IPv6.
+
+Example IPs:
+  //1080:0012:3456:789A:0008:0800:200C:417A
+		//2080:00FE:3456:789A:FEDC:BA98:7654:3210
